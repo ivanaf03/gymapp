@@ -20,4 +20,6 @@ Flutter mobile app to track your gym routines.
 - Riverpod (Riverpod 3 and Riverpod code generation)
 
 ## 📦 Installation
-Download the APK (only for Android) from [here](https://github.com/ivanaf03/gym-app/app-release.apk).
+
+- **Android:** Download the [Gym Routine App APK](./app-release.apk) directly from this repository.
+- **iOS:** I don't like Apple.
