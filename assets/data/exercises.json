@@ -1,0 +1,1178 @@
+{
+  "Piernas": [
+    {
+      "name": "Sentadilla",
+      "description": "Ejercicio fundamental multiarticular que trabaja principalmente cuádriceps, glúteos y femorales. Requiere buena movilidad de cadera y tobillo, así como una correcta activación del core para mantener la espalda neutra.",
+      "image": "assets/images/sentadilla.png"
+    },
+    {
+      "name": "Sentadilla frontal",
+      "description": "Variante de la sentadilla con la barra apoyada al frente, que incrementa el énfasis en los cuádriceps y el core, reduciendo la carga sobre la espalda baja y exigiendo mayor movilidad de tobillos y muñecas.",
+      "image": "assets/images/sentadilla_frontal.png"
+    },
+    {
+      "name": "Prensa inclinada",
+      "description": "Ejercicio en máquina que permite trabajar cuádriceps, glúteos y femorales de forma segura. Ideal para aplicar altas cargas controladas manteniendo la espalda apoyada durante todo el movimiento.",
+      "image": "assets/images/prensa_inclinada.png"
+    },
+    {
+      "name": "Prensa horizontal en máquina",
+      "description": "Ejercicio guiado para el desarrollo de las piernas que reduce la carga axial sobre la columna, permitiendo centrarse en la extensión de rodillas y caderas con mayor estabilidad.",
+      "image": "assets/images/prensa_horizontal_maquina.png"
+    },
+    {
+      "name": "Hip thrust",
+      "description": "Ejercicio clave para el desarrollo de los glúteos, enfocado en la extensión de cadera. Permite aplicar grandes cargas con una alta activación del glúteo mayor cuando se ejecuta con pausa en la parte alta.",
+      "image": "assets/images/hip_thrust.png"
+    },
+    {
+      "name": "Extensión de cuádriceps",
+      "description": "Ejercicio analítico que aísla el cuádriceps, ideal para trabajo de hipertrofia, activación previa o como complemento tras ejercicios compuestos de piernas.",
+      "image": "assets/images/extension_cuadriceps.png"
+    },
+    {
+      "name": "Curl femoral sentado",
+      "description": "Ejercicio en máquina que trabaja de forma aislada los isquiotibiales, especialmente eficaz al mantener la cadera flexionada durante todo el recorrido.",
+      "image": "assets/images/curl_femoral_sentado.png"
+    },
+    {
+      "name": "Elevaciones de gemelos en máquina",
+      "description": "Ejercicio específico para el desarrollo de los gemelos, centrado principalmente en el gastrocnemio y sóleo. Es importante realizar el recorrido completo y controlar el descenso.",
+      "image": "assets/images/elevaciones_gemelos_maquina.png"
+    },
+    {
+      "name": "Zancadas con mancuernas",
+      "description": "Ejercicio unilateral que mejora fuerza, estabilidad y coordinación, trabajando cuádriceps, glúteos y femorales, además de exigir una buena activación del core.",
+      "image": "assets/images/zancadas_mancuernas.png"
+    },
+    {
+      "name": "Sentadilla con mancuerna",
+      "description": "Variante de sentadilla que utiliza una o dos mancuernas, ideal para trabajar cuádriceps, glúteos y core con menor carga axial.",
+      "image": "assets/images/sentadilla_mancuerna.png"
+    },
+    {
+      "name": "Prensa vertical",
+      "description": "Ejercicio en máquina que enfatiza cuádriceps y glúteos, permitiendo mover cargas elevadas con mayor estabilidad y control.",
+      "image": "assets/images/prensa_vertical.png"
+    },
+    {
+      "name": "Sentadilla búlgara con mancuernas",
+      "description": "Ejercicio unilateral que mejora fuerza, equilibrio y estabilidad, con alta activación de glúteos y cuádriceps.",
+      "image": "assets/images/sentadilla_bulgara_mancuernas.png"
+    },
+    {
+      "name": "Sentadilla con caja",
+      "description": "Variante de sentadilla que utiliza una referencia de altura para mejorar la técnica, el control y la profundidad del movimiento.",
+      "image": "assets/images/sentadilla_caja.png"
+    },
+    {
+      "name": "Sentadilla Hack",
+      "description": "Ejercicio guiado que enfatiza el trabajo del cuádriceps, reduciendo la exigencia sobre la zona lumbar.",
+      "image": "assets/images/sentadilla_hack.png"
+    },
+    {
+      "name": "Sentadilla con peso corporal",
+      "description": "Ejercicio básico funcional que desarrolla fuerza, movilidad y control del tren inferior.",
+      "image": "assets/images/sentadilla_peso_corporal.png"
+    },
+    {
+      "name": "Sentadilla búlgara",
+      "description": "Variante unilateral exigente que mejora la fuerza de piernas, la estabilidad y el equilibrio.",
+      "image": "assets/images/sentadilla_bulgara.png"
+    },
+    {
+      "name": "Buenos días",
+      "description": "Ejercicio de bisagra de cadera que fortalece isquiotibiales, glúteos y erectores espinales.",
+      "image": "assets/images/buenos_dias.png"
+    },
+    {
+      "name": "Elevación de gemelo en máquina sentado",
+      "description": "Ejercicio de aislamiento enfocado en el músculo sóleo, realizado con control del recorrido.",
+      "image": "assets/images/elevacion_gemelo_maquina_sentado.png"
+    },
+    {
+      "name": "Zancadas con barra",
+      "description": "Ejercicio dinámico que desarrolla fuerza, coordinación y estabilidad en cuádriceps y glúteos.",
+      "image": "assets/images/zancada_barra.png"
+    },
+    {
+      "name": "Sentadilla Zercher",
+      "description": "Variante de sentadilla con la barra apoyada en los antebrazos que incrementa la activación del core.",
+      "image": "assets/images/sentadilla_zercher.png"
+    },
+    {
+      "name": "Sentadilla con barra por encima de la cabeza",
+      "description": "Ejercicio avanzado que requiere gran movilidad, estabilidad y control del core.",
+      "image": "assets/images/sentadilla_barra_cabeza.png"
+    },
+    {
+      "name": "Abductores en máquina",
+      "description": "Ejercicio de aislamiento para los músculos abductores de la cadera, clave para la estabilidad pélvica.",
+      "image": "assets/images/abductores_maquina.png"
+    },
+    {
+      "name": "Sentadilla en multipower",
+      "description": "Variante guiada que permite controlar el recorrido y reducir la exigencia técnica del ejercicio.",
+      "image": "assets/images/sentadilla_multi.png"
+    },
+    {
+      "name": "Aductores en máquina",
+      "description": "Ejercicio de aislamiento para la musculatura interna del muslo.",
+      "image": "assets/images/aductores_maquina.png"
+    },
+    {
+      "name": "Sentadilla a una sola pierna con barra",
+      "description": "Ejercicio unilateral avanzado que desarrolla fuerza, equilibrio y control neuromuscular.",
+      "image": "assets/images/sentadilla_una_pierna.png"
+    },
+    {
+      "name": "Empuje de cadera en polea",
+      "description": "Variante del hip thrust que mantiene tensión constante sobre los glúteos durante todo el recorrido.",
+      "image": "assets/images/empuje_cadera_polea.png"
+    },
+    {
+      "name": "Sentadilla Landmine",
+      "description": "Variante de sentadilla con barra anclada que reduce la carga lumbar y mejora la estabilidad.",
+      "image": "assets/images/sentadilla_landmine.png"
+    },
+    {
+      "name": "Femoral en máquina de pie",
+      "description": "Ejercicio de aislamiento para los isquiotibiales, trabajando cada pierna de forma independiente.",
+      "image": "assets/images/femoral_maquina_pie.png"
+    },
+    {
+      "name": "Elevación de gemelos de pie con barra",
+      "description": "Ejercicio clásico para el desarrollo del gastrocnemio mediante extensión plantar.",
+      "image": "assets/images/elevacion_gemelos_pie_barra.png"
+    },
+    {
+      "name": "Sentadilla con mancuernas",
+      "description": "Variante accesible de sentadilla que permite un trabajo equilibrado de piernas con menor carga axial.",
+      "image": "assets/images/sentadilla_mancuernas.png"
+    },
+    {
+      "name": "Sentadilla con una sola pierna",
+      "description": "Ejercicio unilateral que mejora fuerza, estabilidad y control del tren inferior.",
+      "image": "assets/images/sentadilla_unilateral.png"
+    },
+    {
+      "name": "Puente de glúteo con barra",
+      "description": "Ejercicio clave para el desarrollo de los glúteos mediante la extensión de cadera.",
+      "image": "assets/images/puente_gluteo_barra.png"
+    },
+    {
+      "name": "Zancada inversa con barra",
+      "description": "Variante de zancada que reduce el estrés en la rodilla y enfatiza el trabajo del glúteo.",
+      "image": "assets/images/zancada_inversa_barra.png"
+    },
+    {
+      "name": "Elevación de gemelos de pie con mancuernas",
+      "description": "Ejercicio para gemelos que ofrece mayor libertad de movimiento y control.",
+      "image": "assets/images/elevacion_gemelos_pie_mancuernas.png"
+    },
+    {
+      "name": "Sentadilla con correa",
+      "description": "Variante asistida que facilita la técnica y mejora la profundidad del movimiento.",
+      "image": "assets/images/sentadilla_correa.png"
+    },
+    {
+      "name": "Sentadilla hack con barra",
+      "description": "Variante libre del hack squat que enfatiza cuádriceps y glúteos.",
+      "image": "assets/images/sentadilla_hack_barra.png"
+    },
+    {
+      "name": "Sentadilla con barra de seguridad",
+      "description": "Variante que reduce la tensión en hombros y espalda, favoreciendo una postura más erguida.",
+      "image": "assets/images/sentadilla_barra_seguridad.png"
+    },
+    {
+      "name": "Prensa con una sola pierna",
+      "description": "Ejercicio unilateral que ayuda a corregir desequilibrios musculares.",
+      "image": "assets/images/prensa_una_pierna.png"
+    },
+    {
+      "name": "Sentadilla con pausa",
+      "description": "Variante que incorpora una detención en el punto más bajo para mejorar fuerza y control.",
+      "image": "assets/images/sentadilla_pausa.png"
+    },
+    {
+      "name": "Gemelos en prensa",
+      "description": "Ejercicio que permite trabajar los gemelos con altas cargas y recorrido controlado.",
+      "image": "assets/images/gemelos_prensa.png"
+    },
+    {
+      "name": "Sentadilla sumo con barra",
+      "description": "Variante de sentadilla con postura amplia que enfatiza glúteos y aductores.",
+      "image": "assets/images/sumo_barra.png"
+    },
+    {
+      "name": "Patada de glúteo en polea",
+      "description": "Ejercicio de aislamiento para el glúteo mayor con tensión constante.",
+      "image": "assets/images/patada_gluteo_polea.png"
+    },
+    {
+      "name": "Zancadas",
+      "description": "Ejercicio funcional que desarrolla fuerza, coordinación y estabilidad en piernas.",
+      "image": "assets/images/zancadas.png"
+    },
+    {
+      "name": "Puente de glúteo en el suelo",
+      "description": "Ejercicio básico de activación y fortalecimiento de los glúteos.",
+      "image": "assets/images/puente_gluteo_suelo.png"
+    },
+    {
+      "name": "Sentadilla Pistol",
+      "description": "Ejercicio avanzado de peso corporal que requiere fuerza, equilibrio y movilidad.",
+      "image": "assets/images/pistol.png"
+    },
+    {
+      "name": "Elevacines de gemelos",
+      "description": "Ejercicio básico para el desarrollo de los músculos de la pantorrilla.",
+      "image": "assets/images/elevacion_gemelos.png"
+    },
+    {
+      "name": "Sentadilla frontal con mancuernas",
+      "description": "Variante frontal que enfatiza el trabajo del cuádriceps y mejora la postura.",
+      "image": "assets/images/sentadilla_frontal_mancuernas.png"
+    },
+    {
+      "name": "Estocadas en movimiento",
+      "description": "Ejercicio dinámico que combina fuerza, coordinación y resistencia muscular.",
+      "image": "assets/images/estocadas_movimiento.png"
+    },
+    {
+      "name": "Esgtocadas invertidas",
+      "description": "Variante de estocada que reduce el impacto en la rodilla y enfatiza el glúteo.",
+      "image": "assets/images/estocadas_invertidas.png"
+    },
+    {
+      "name": "Levantamiento de espalda",
+      "description": "Ejercicio que fortalece la zona lumbar y los músculos erectores de la columna.",
+      "image": "assets/images/levantamiento_espalda.png"
+    },
+    {
+      "name": "Curl nórdico",
+      "description": "Ejercicio avanzado para isquiotibiales que mejora la fuerza excéntrica y previene lesiones.",
+      "image": "assets/images/curl_nordico.png"
+    },
+    {
+      "name": "Sentadilla con salto",
+      "description": "Ejercicio pliométrico que desarrolla potencia y explosividad en el tren inferior.",
+      "image": "assets/images/sentadilla_salto.png"
+    },
+    {
+      "name": "Sentadilla Sissy",
+      "description": "Ejercicio que enfatiza el cuádriceps mediante un patrón dominante de rodilla.",
+      "image": "assets/images/sentadilla_sissy.png"
+    },
+    {
+      "name": "Estocada lateral",
+      "description": "Ejercicio que trabaja glúteos, aductores y movilidad lateral.",
+      "image": "assets/images/estocada_lateral.png"
+    },
+    {
+      "name": "Elevación de gemelos sentado a una pierna",
+      "description": "Variante unilateral que enfatiza el sóleo y corrige desbalances musculares.",
+      "image": "assets/images/elevacion_gemelos_sentado_una_pierna.png"
+    },
+    {
+      "name": "Elevaciones de gemelos tipo burro",
+      "description": "Ejercicio clásico que permite un gran estiramiento del gastrocnemio.",
+      "image": "assets/images/elevaciones_gemelos_burro.png"
+    },
+    {
+      "name": "Extensión de piernas en polea",
+      "description": "Ejercicio de aislamiento para cuádriceps con tensión constante durante el recorrido.",
+      "image": "assets/images/extension_piernas_polea.png"
+    },
+    {
+      "name": "Levantamiento lateral de piernas",
+      "description": "Ejercicio de aislamiento para los músculos abductores de la cadera.",
+      "image": "assets/images/levantamiento_lateral_piernas.png"
+    },
+    {
+      "name": "Sentadilla media",
+      "description": "Variante parcial de sentadilla que enfatiza el trabajo del cuádriceps.",
+      "image": "assets/images/sentadilla_media.png"
+    },
+    {
+      "name": "Sentadilla Jefferson",
+      "description": "Variante asimétrica que mejora fuerza, coordinación y estabilidad.",
+      "image": "assets/images/sentadilla_jefferson.png"
+    },
+    {
+      "name": "Abducción de cadera en el suelo",
+      "description": "Ejercicio de activación para los músculos abductores de la cadera.",
+      "image": "assets/images/abduccion_cadera_suelo.png"
+    },
+    {
+      "name": "Extensión de cadera",
+      "description": "Movimiento fundamental para el desarrollo de glúteos y estabilidad pélvica.",
+      "image": "assets/images/extension_cadera.png"
+    },
+    {
+      "name": "Patada trasera de glúteo",
+      "description": "Ejercicio de aislamiento enfocado en el glúteo mayor.",
+      "image": "assets/images/patada_trasera_gluteo.png"
+    },
+    {
+      "name": "Elevación de gemelos con mancuernas en el suelo",
+      "description": "Ejercicio simple para trabajar los gemelos sin equipamiento específico.",
+      "image": "assets/images/elevaciones_gemelos_suelo.png"
+    },
+    {
+      "name": "Extensión de cadera en el suelo",
+      "description": "Ejercicio básico de activación y fortalecimiento del glúteo.",
+      "image": "assets/images/extension_cadera_suelo.png"
+    }
+  ],
+  "Espalda": [
+    {
+      "name": "Dominadas",
+      "description": "Ejercicio compuesto de calistenia que desarrolla principalmente el dorsal ancho, romboides y bíceps, además de mejorar la fuerza relativa y el control corporal.",
+      "image": "assets/images/dominadas.png"
+    },
+    {
+      "name": "Remo con barra",
+      "description": "Ejercicio compuesto fundamental para el desarrollo del dorsal ancho, romboides y trapecio, que requiere una correcta inclinación del torso y control del core para proteger la zona lumbar.",
+      "image": "assets/images/remo_barra.png"
+    },
+    {
+      "name": "Jalón al pecho",
+      "description": "Ejercicio en polea que imita el patrón de las dominadas, enfocado en el dorsal ancho y bíceps, permitiendo un control preciso de la carga y la técnica.",
+      "image": "assets/images/jalon_pecho.png"
+    },
+    {
+      "name": "Dominadas supinas",
+      "description": "Variante de dominadas con agarre supino que incrementa la participación del bíceps, manteniendo una alta activación del dorsal ancho.",
+      "image": "assets/images/dominadas_supinas.png"
+    },
+    {
+      "name": "Remo con mancuerna",
+      "description": "Ejercicio unilateral que permite corregir desbalances musculares, enfatizando el dorsal ancho y romboides con un alto control del recorrido.",
+      "image": "assets/images/remo_mancuerna.png"
+    },
+    {
+      "name": "Remo Gironda",
+      "description": "Variante de remo enfocada en el dorsal ancho, realizada con el torso más erguido y llevando la barra hacia el abdomen bajo para maximizar la contracción.",
+      "image": "assets/images/remo_gironda.png"
+    },
+    {
+      "name": "Encogimientos con barra",
+      "description": "Ejercicio de aislamiento para el trapecio superior, enfocado en la elevación controlada de los hombros sin balanceos.",
+      "image": "assets/images/encogimientos_barra.png"
+    },
+    {
+      "name": "Remo en barra T",
+      "description": "Ejercicio compuesto que permite mover cargas elevadas, enfatizando el grosor de la espalda media y el trapecio.",
+      "image": "assets/images/remo_T.png"
+    },
+    {
+      "name": "Encogimientos con mancuernas",
+      "description": "Variante de encogimientos que ofrece mayor libertad de movimiento, facilitando una contracción más natural del trapecio.",
+      "image": "assets/images/encogimientos_mancuernas.png"
+    },
+    {
+      "name": "Remo Pendlay",
+      "description": "Variante estricta del remo con barra donde cada repetición parte desde el suelo, mejorando la potencia y reduciendo el impulso.",
+      "image": "assets/images/remo_pendlay.png"
+    },
+    {
+      "name": "Pull over con mancuerna",
+      "description": "Ejercicio que trabaja el dorsal ancho y los músculos estabilizadores del hombro, enfatizando el estiramiento y control del recorrido.",
+      "image": "assets/images/pull_over_mancuerna.png"
+    },
+    {
+      "name": "Pájaros en banco inclinado",
+      "description": "Ejercicio de aislamiento para el deltoide posterior y la musculatura escapular, clave para la salud del hombro y el equilibrio postural.",
+      "image": "assets/images/pajaros_banco_inclinado.png"
+    },
+    {
+      "name": "Remo en máquina",
+      "description": "Ejercicio guiado que permite focalizar el trabajo en la espalda media y dorsal, reduciendo la exigencia sobre la zona lumbar.",
+      "image": "assets/images/remo_maquina.png"
+    },
+    {
+      "name": "Remo con mancuernas en banco inclinado",
+      "description": "Variante de remo que elimina el impulso y reduce la carga lumbar, enfatizando la contracción del dorsal y romboides.",
+      "image": "assets/images/remo_mancuernas_banco_inclinado.png"
+    },
+    {
+      "name": "Jalón al pecho con agarre cerrado",
+      "description": "Variante del jalón que aumenta la activación del dorsal interno y los bíceps, permitiendo un recorrido más concentrado.",
+      "image": "assets/images/jalon_pecho_agarre_cerrado.png"
+    },
+    {
+      "name": "Pájaros en polea de pie",
+      "description": "Ejercicio que mantiene tensión constante sobre el deltoide posterior y la musculatura escapular durante todo el recorrido.",
+      "image": "assets/images/pajaros_polea.png"
+    },
+    {
+      "name": "Aperturas invertidas en máquina",
+      "description": "Ejercicio guiado de aislamiento para el deltoide posterior y trapecio medio, ideal para mejorar la postura y estabilidad del hombro.",
+      "image": "assets/images/aperturas_invertidas_maquina.png"
+    },
+    {
+      "name": "Jalón al pecho con agarre supino",
+      "description": "Variante del jalón que incrementa la participación del bíceps y facilita la activación del dorsal ancho.",
+      "image": "assets/images/jalon_pecho_agarre_supino.png"
+    },
+    {
+      "name": "Remo en banco con barra",
+      "description": "Variante de remo que reduce el impulso y mejora el control del movimiento, enfocándose en la espalda media.",
+      "image": "assets/images/remo_banco_barra.png"
+    },
+    {
+      "name": "Jalones frontales con brazos estirados",
+      "description": "Ejercicio de aislamiento para el dorsal ancho que enfatiza la extensión del hombro y la conexión mente-músculo.",
+      "image": "assets/images/jalones_frontales.png"
+    },
+    {
+      "name": "Extensión de espalda en máquina",
+      "description": "Ejercicio que fortalece los erectores espinales y la zona lumbar, clave para la estabilidad y prevención de lesiones.",
+      "image": "assets/images/extension_espalda_maquina.png"
+    },
+    {
+      "name": "Remo inclinado con barra",
+      "description": "Variante del remo con mayor inclinación del torso, aumentando la activación del dorsal ancho y romboides.",
+      "image": "assets/images/remo_inclinado_barra.png"
+    },
+    {
+      "name": "Remo con mancuernas en banco",
+      "description": "Ejercicio unilateral que mejora la estabilidad y permite un enfoque preciso en cada lado de la espalda.",
+      "image": "assets/images/remo_mancuernas_banco.png"
+    },
+    {
+      "name": "Remo renegado",
+      "description": "Ejercicio combinado que trabaja la espalda, core y estabilidad, integrando fuerza y control corporal.",
+      "image": "assets/images/remo_renegado.png"
+    },
+    {
+      "name": "Dominadas con agarre neutro",
+      "description": "Variante de dominadas que reduce el estrés en los hombros y codos, manteniendo una alta activación del dorsal.",
+      "image": "assets/images/dominadas_neutro.png"
+    },
+    {
+      "name": "Dominadas con un solo brazo",
+      "description": "Ejercicio avanzado de calistenia que requiere una alta fuerza relativa, estabilidad y control del dorsal y core.",
+      "image": "assets/images/dominadas_un_brazo.png"
+    },
+    {
+      "name": "Hiperextensiones de espalda",
+      "description": "Ejercicio que fortalece la zona lumbar y glúteos, esencial para la estabilidad de la columna.",
+      "image": "assets/images/hiperextension_espalda.png"
+    },
+    {
+      "name": "Remo invertido",
+      "description": "Ejercicio de peso corporal que desarrolla la espalda media y dorsal, ideal para progresiones hacia dominadas.",
+      "image": "assets/images/remo_invertido.png"
+    },
+    {
+      "name": "Remo inclinado con mancuernas",
+      "description": "Variante del remo que permite un mayor rango de movimiento y trabajo unilateral con menor estrés lumbar.",
+      "image": "assets/images/remo_inclinado_mancuernas.png"
+    },
+    {
+      "name": "Remo Gironda unilateral",
+      "description": "Variante unilateral del remo Gironda que mejora la conexión mente-músculo y corrige desbalances.",
+      "image": "assets/images/remo_gironda_unilateral.png"
+    },
+    {
+      "name": "Remo vertical en polea",
+      "description": "Ejercicio que enfatiza la espalda alta y trapecio, manteniendo tensión constante durante todo el recorrido.",
+      "image": "assets/images/remo_vertical_polea.png"
+    },
+    {
+      "name": "Encogimiento de hombros en multipower",
+      "description": "Variante guiada del encogimiento que permite aislar el trapecio superior con mayor estabilidad.",
+      "image": "assets/images/encogimiento_hombros_multi.png"
+    },
+    {
+      "name": "Elevaciones en Y",
+      "description": "Ejercicio correctivo que fortalece trapecio inferior y deltoide posterior, clave para la salud escapular.",
+      "image": "assets/images/elevaciones_y.png"
+    },
+    {
+      "name": "Jalón al pecho unilateral",
+      "description": "Variante unilateral del jalón que permite corregir asimetrías y mejorar la activación del dorsal.",
+      "image": "assets/images/jalon_pecho_unilateral.png"
+    },
+    {
+      "name": "Encogimiento de hombros con barra",
+      "description": "Ejercicio clásico para el desarrollo del trapecio superior, permitiendo el uso de cargas elevadas.",
+      "image": "assets/images/encogimiento_hombros_barra.png"
+    },
+    {
+      "name": "Encogimiento de hombros con máquina",
+      "description": "Variante guiada que facilita el aislamiento del trapecio y reduce la exigencia técnica.",
+      "image": "assets/images/encogimiento_hombros_maquina.png"
+    },
+    {
+      "name": "Encogimiento de hombros con barra hexagonal",
+      "description": "Variante que permite una posición más natural y segura para trabajar el trapecio superior.",
+      "image": "assets/images/encogimiento_hombros_barra_hexagonal.png"
+    },
+    {
+      "name": "Encogimientos en polea para trapecios",
+      "description": "Ejercicio que mantiene tensión constante sobre el trapecio, favoreciendo el control del movimiento.",
+      "image": "assets/images/encogimientos_polea_trapecios.png"
+    },
+    {
+      "name": "Pull over con barra",
+      "description": "Variante del pull over que enfatiza el dorsal ancho y la musculatura del core mediante un recorrido amplio.",
+      "image": "assets/images/pull_over_barra.png"
+    },
+    {
+      "name": "Encogimientos tras nuca con barra",
+      "description": "Variante avanzada de encogimientos que enfatiza el trapecio superior, requiriendo buena movilidad de hombros.",
+      "image": "assets/images/encogimientos_nuca_barra.png"
+    },
+    {
+      "name": "Remo Meadows",
+      "description": "Variante unilateral de remo popularizada por John Meadows, enfocada en el dorsal y la espalda media con gran rango de movimiento.",
+      "image": "assets/images/remo_meadows.png"
+    },
+    {
+      "name": "Hiperextensión inversa",
+      "description": "Ejercicio que fortalece glúteos y erectores espinales con menor compresión lumbar, ideal para la salud de la espalda baja.",
+      "image": "assets/images/hiperextension_inversa.png"
+    }
+  ],
+  "Pecho": [
+    {
+      "name": "Press banca",
+      "description": "Ejercicio básico para el desarrollo del pectoral mayor, con alta implicación de tríceps y deltoide anterior. Es clave mantener una buena retracción escapular y control del recorrido.",
+      "image": "assets/images/press_banca.png"
+    },
+    {
+      "name": "Press banca con mancuernas",
+      "description": "Variante del press banca que permite un mayor rango de movimiento y trabajo unilateral, favoreciendo la estabilidad del hombro y corrigiendo descompensaciones musculares.",
+      "image": "assets/images/press_banca_mancuernas.png"
+    },
+    {
+      "name": "Flexiones",
+      "description": "Ejercicio de peso corporal muy versátil que trabaja el pectoral mayor, tríceps y hombros, además de activar el core. La dificultad puede ajustarse mediante la inclinación o la posición de las manos.",
+      "image": "assets/images/flexiones.png"
+    },
+    {
+      "name": "Press banca inclinado",
+      "description": "Variante del press banca enfocada en la porción superior del pectoral, con mayor implicación del deltoide anterior. La inclinación moderada permite un estímulo más específico del pecho alto.",
+      "image": "assets/images/press_banca_inclinado.png"
+    },
+    {
+      "name": "Press inclinado con mancuernas",
+      "description": "Ejercicio que enfatiza el pectoral superior y mejora el rango de movimiento y la estabilidad del hombro, permitiendo un trabajo más controlado y simétrico.",
+      "image": "assets/images/press_banca_inclinado_mancuernas.png"
+    },
+    {
+      "name": "Press de pecho en máquina",
+      "description": "Ejercicio guiado que permite aislar el pectoral con mayor seguridad y control, ideal para trabajar cerca del fallo muscular reduciendo la demanda de estabilización.",
+      "image": "assets/images/press_pecho_maquina.png"
+    },
+    {
+      "name": "Press banca declinado",
+      "description": "Variante del press banca que enfatiza la porción inferior del pectoral, permitiendo generalmente mover más carga y reduciendo el estrés sobre los hombros.",
+      "image": "assets/images/press_banca_declinado.png"
+    },
+    {
+      "name": "Press banca con agarre cerrado",
+      "description": "Ejercicio que reduce la activación del pectoral y aumenta el trabajo de los tríceps, manteniendo una participación secundaria del pecho y deltoide anterior.",
+      "image": "assets/images/press_banca_cerrado.png"
+    },
+    {
+      "name": "Aperturas con mancuernas",
+      "description": "Ejercicio de aislamiento que enfatiza la aducción horizontal del hombro, generando una gran tensión en el pectoral a lo largo del recorrido, especialmente en la fase excéntrica.",
+      "image": "assets/images/aperturas_mancuernas.png"
+    },
+    {
+      "name": "Aperturas en máquina",
+      "description": "Variante guiada de las aperturas que permite mantener tensión constante sobre el pectoral, facilitando el control del movimiento y reduciendo la carga sobre los hombros.",
+      "image": "assets/images/aperturas_maquina.png"
+    },
+    {
+      "name": "Empuje desde el suelo",
+      "description": "Variante del press realizada desde el suelo que limita el recorrido, enfocándose en la fase inicial del empuje y reduciendo la tensión sobre los hombros.",
+      "image": "assets/images/empuje_suelo.png"
+    },
+    {
+      "name": "Aperturas con mancuernas en banco inclinado",
+      "description": "Ejercicio de aislamiento que prioriza el pectoral superior, aumentando el estiramiento y la activación muscular en la parte alta del pecho.",
+      "image": "assets/images/aperturas_mancuernas_inclinado.png"
+    },
+    {
+      "name": "Cruces en polea alta",
+      "description": "Ejercicio de aislamiento que permite mantener tensión constante en el pectoral durante todo el recorrido, ideal para trabajar la contracción máxima y el control muscular.",
+      "image": "assets/images/cruces_polea_alta.png"
+    },
+    {
+      "name": "Press banca en multipower",
+      "description": "Variante guiada del press banca que facilita la estabilidad y el control del movimiento, permitiendo enfocarse en el pectoral y trabajar con mayor seguridad.",
+      "image": "assets/images/press_banca_multi.png"
+    },
+    {
+      "name": "Press en el suelo con mancuernas",
+      "description": "Variante del press realizada desde el suelo que limita el rango de movimiento, reduciendo la extensión del hombro y enfocando el trabajo en la fase inicial del empuje, con mayor seguridad articular.",
+      "image": "assets/images/press_suelo_mancuernas.png"
+    },
+    {
+      "name": "Press banca declinado con mancuernas",
+      "description": "Ejercicio que enfatiza la porción inferior del pectoral, permitiendo un mayor rango de movimiento y trabajo unilateral, además de una mayor libertad para las articulaciones del hombro.",
+      "image": "assets/images/press_banca_declinado_mancuernas.png"
+    },
+    {
+      "name": "Press banca con agarre invertido",
+      "description": "Variante del press banca que incrementa la activación del pectoral superior y reduce el estrés sobre los hombros, requiriendo un mayor control técnico y estabilidad.",
+      "image": "assets/images/press_banca_agarre_invertido.png"
+    },
+    {
+      "name": "Press banca con pausas",
+      "description": "Variante del press banca en la que se detiene la barra sobre el pecho durante un breve instante, mejorando el control, la fuerza desde el punto muerto y la técnica del movimiento.",
+      "image": "assets/images/press_banca_pausas.png"
+    },
+    {
+      "name": "Flexiones con un brazo",
+      "description": "Ejercicio avanzado de peso corporal que aumenta significativamente la demanda de fuerza, estabilidad del core y control del hombro, enfatizando el pectoral, tríceps y deltoide anterior.",
+      "image": "assets/images/flexiones_un_brazo.png"
+    },
+    {
+      "name": "Press banca con agarre ancho",
+      "description": "Variante del press banca que aumenta la participación del pectoral mayor al reducir el recorrido del movimiento, disminuyendo la implicación del tríceps.",
+      "image": "assets/images/press_banca_agarre_ancho.png"
+    },
+    {
+      "name": "Flexiones con declinación",
+      "description": "Variante de flexiones en la que los pies se elevan, aumentando la carga sobre el pectoral superior y los hombros, además de incrementar la dificultad global del ejercicio.",
+      "image": "assets/images/flexiones_declinacion.png"
+    },
+    {
+      "name": "Press de pecho con mancuernas agarre cerrado",
+      "description": "Ejercicio que combina el trabajo del pectoral con una mayor implicación de los tríceps, manteniendo un recorrido controlado y una activación más concentrada.",
+      "image": "assets/images/press_pecho_mancuernas_agarre_cerrado.png"
+    },
+    {
+      "name": "Flexiones diamante",
+      "description": "Variante de flexiones que aumenta la activación de los tríceps y la porción interna del pectoral, manteniendo una alta demanda de control y estabilidad.",
+      "image": "assets/images/flexiones_diamante.png"
+    },
+    {
+      "name": "Flexiones con inclinación",
+      "description": "Variante de flexiones con manos elevadas que reduce la carga total del ejercicio, ideal para principiantes o como trabajo accesorio con énfasis en el pectoral.",
+      "image": "assets/images/flexiones_inclinacion.png"
+    },
+    {
+      "name": "Apertura con mancuernas en banco declinado",
+      "description": "Ejercicio de aislamiento que enfatiza la porción inferior del pectoral, aumentando el estiramiento muscular y la activación en el tramo final del movimiento.",
+      "image": "assets/images/apertura_mancuernas_banco_declinado.png"
+    },
+    {
+      "name": "Press banca inclinado con agarre cerrado",
+      "description": "Variante del press inclinado que combina el trabajo del pectoral superior con una mayor implicación de los tríceps, manteniendo un recorrido más controlado.",
+      "image": "assets/images/press_banca_inclinado_agarre_cerrado.png"
+    },
+    {
+      "name": "Flexiones de arco",
+      "description": "Variante avanzada de flexiones que desplaza el peso corporal lateralmente, aumentando el estímulo unilateral sobre el pectoral y mejorando el control y la estabilidad.",
+      "image": "assets/images/flexiones_arco.png"
+    },
+    {
+      "name": "Press Spoto",
+      "description": "Variante técnica del press banca en la que la barra se detiene ligeramente sobre el pecho, aumentando el control, la tensión muscular y la fuerza en el punto más débil del movimiento.",
+      "image": "assets/images/press_spoto.png"
+    }
+  ],
+  "Hombros": [
+    {
+      "name": "Press militar con barra",
+      "description": "Ejercicio compuesto que desarrolla principalmente el deltoide anterior y medio, además de exigir una gran estabilidad del core y la cintura escapular.",
+      "image": "assets/images/press_militar_barra.png"
+    },
+    {
+      "name": "Press militar con mancuernas",
+      "description": "Ejercicio básico de empuje vertical que desarrolla principalmente el deltoide frontal y medio, permitiendo un trabajo unilateral que mejora la estabilidad y el equilibrio muscular.",
+      "image": "assets/images/press_militar_mancuernas.png"
+    },
+    {
+      "name": "Elevaciones laterales con mancuernas",
+      "description": "Ejercicio de aislamiento clave para el desarrollo del deltoide lateral, responsable de dar anchura al hombro y mejorar la estética del tren superior.",
+      "image": "assets/images/laterales_mancuernas.png"
+    },
+    {
+      "name": "Push press",
+      "description": "Variante explosiva del press militar que utiliza un impulso controlado de piernas para mover mayores cargas, enfocada en el desarrollo de fuerza y potencia.",
+      "image": "assets/images/push_press.png"
+    },
+    {
+      "name": "Press militar con barra sentado",
+      "description": "Ejercicio clásico de fuerza para hombros que reduce la participación de las piernas, permitiendo un enfoque más directo sobre el deltoide frontal y los tríceps.",
+      "image": "assets/images/press_militar_barra_sentado.png"
+    },
+    {
+      "name": "Press militar en máquina",
+      "description": "Ejercicio guiado que proporciona mayor estabilidad y control del movimiento, ideal para aislar el hombro y entrenar con seguridad, especialmente en fases de hipertrofia.",
+      "image": "assets/images/press_militar_maquina.png"
+    },
+    {
+      "name": "Elevaciones frontales con mancuernas",
+      "description": "Ejercicio de aislamiento enfocado en el deltoide frontal, que complementa los movimientos de empuje y ayuda a mejorar la fuerza y el control del hombro.",
+      "image": "assets/images/elevaciones_frontales_mancuernas.png"
+    },
+    {
+      "name": "Elevaciones laterales en polea",
+      "description": "Variante de las elevaciones laterales que mantiene tensión constante durante todo el recorrido, favoreciendo una mayor activación del deltoide lateral.",
+      "image": "assets/images/laterales_polea.png"
+    },
+    {
+      "name": "Press Arnold",
+      "description": "Variante dinámica del press con mancuernas que incorpora rotación del brazo, aumentando el rango de movimiento y la activación global del deltoide.",
+      "image": "assets/images/press_arnold.png"
+    },
+    {
+      "name": "Face pull",
+      "description": "Ejercicio esencial para el deltoide posterior y la musculatura estabilizadora del hombro, ideal para mejorar la postura y prevenir desequilibrios musculares.",
+      "image": "assets/images/face_pull.png"
+    },
+    {
+      "name": "Curl de cuello",
+      "description": "Ejercicio específico para fortalecer la musculatura cervical, mejorando la estabilidad del cuello y ayudando a prevenir lesiones, común en deportes de contacto.",
+      "image": "assets/images/curl_cuello.png"
+    },
+    {
+      "name": "Remo al mentón con agarre abierto",
+      "description": "Variante del remo al mentón que reduce la implicación del trapecio superior y enfatiza el trabajo del deltoide lateral, favoreciendo un desarrollo más seguro del hombro.",
+      "image": "assets/images/remo_menton_abierto.png"
+    },
+    {
+      "name": "Press tras nuca con barra",
+      "description": "Ejercicio de empuje para hombros que enfatiza el deltoide posterior, aunque requiere buena movilidad y control para evitar sobrecargas en la articulación del hombro.",
+      "image": "assets/images/press_tras_nuca_barra.png"
+    },
+    {
+      "name": "Elevaciones frontales con barra",
+      "description": "Ejercicio de aislamiento para el deltoide frontal que permite mover cargas mayores que con mancuernas, ideal para mejorar fuerza y masa muscular.",
+      "image": "assets/images/elevaciones_frontales_barra.png"
+    },
+    {
+      "name": "Log press",
+      "description": "Ejercicio típico del strongman que desarrolla fuerza y potencia en hombros, tríceps y core, utilizando un implemento cilíndrico que desafía la estabilidad.",
+      "image": "assets/images/log_press.png"
+    },
+    {
+      "name": "Flexiones invertidas",
+      "description": "Ejercicio con el peso corporal que simula un press vertical, ideal para desarrollar fuerza en hombros y core, así como mejorar la coordinación y el control corporal.",
+      "image": "assets/images/flexiones_invertidas.png"
+    },
+    {
+      "name": "Elevaciones laterales en máquina",
+      "description": "Ejercicio guiado que permite aislar eficazmente el deltoide lateral, manteniendo tensión constante y reduciendo el riesgo de balanceo.",
+      "image": "assets/images/laterales_maquina.png"
+    },
+    {
+      "name": "Press Landmine",
+      "description": "Movimiento de empuje en plano inclinado que resulta más amigable para los hombros, trabajando deltoides, tríceps y core con menor estrés articular.",
+      "image": "assets/images/press_landmine.png"
+    },
+    {
+      "name": "Press militar con mancuernas sentado",
+      "description": "Variante del press con mancuernas que ofrece mayor estabilidad al estar sentado, permitiendo un enfoque más directo en el desarrollo del hombro.",
+      "image": "assets/images/press_militar_mancuernas_sentado.png"
+    },
+    {
+      "name": "Extensión de cuello",
+      "description": "Ejercicio de aislamiento que fortalece la musculatura cervical y los estabilizadores del cuello, contribuyendo a una mayor estabilidad y prevención de molestias en la zona.",
+      "image": "assets/images/extension_cuello.png"
+    },
+    {
+      "name": "Press en Z",
+      "description": "Variante del press vertical realizada sentado en el suelo, que elimina el impulso de las piernas y enfatiza el trabajo del deltoide frontal, los tríceps y la estabilidad del core.",
+      "image": "assets/images/press_z.png"
+    },
+    {
+      "name": "Press vikingo",
+      "description": "Ejercicio de empuje con barra guiada o palanca que permite un patrón de movimiento más natural, enfocado en el desarrollo del deltoide frontal con menor estrés en los hombros.",
+      "image": "assets/images/press_vikingo.png"
+    },
+    {
+      "name": "Press en Z con mancuernas",
+      "description": "Versión unilateral del press en Z que incrementa la activación de los estabilizadores del hombro y mejora el control, el equilibrio y la coordinación muscular.",
+      "image": "assets/images/press_z_mancuernas.png"
+    },
+    {
+      "name": "Push press con mancuernas",
+      "description": "Ejercicio explosivo que combina un ligero impulso de piernas con un press por encima de la cabeza, ideal para desarrollar potencia, fuerza y coordinación en hombros y tríceps.",
+      "image": "assets/images/push_press_mancuernas.png"
+    },
+    {
+      "name": "Rotación externa con mancuerna",
+      "description": "Ejercicio fundamental para el fortalecimiento del manguito rotador, mejorando la estabilidad del hombro y ayudando a prevenir lesiones.",
+      "image": "assets/images/rotacion_externa_mancuerna.png"
+    },
+    {
+      "name": "Flexiones en pica",
+      "description": "Variante de flexión corporal que pone mayor énfasis en los hombros, especialmente el deltoide frontal, utilizando el propio peso corporal como resistencia.",
+      "image": "assets/images/flexiones_pica.png"
+    },
+    {
+      "name": "Rotación externa en polea",
+      "description": "Ejercicio de control y aislamiento que mantiene tensión constante sobre el manguito rotador, ideal para mejorar la salud articular y la estabilidad del hombro.",
+      "image": "assets/images/rotacion_externa_polea.png"
+    },
+    {
+      "name": "Face pull con mancuernas",
+      "description": "Ejercicio enfocado en el deltoide posterior y la musculatura estabilizadora del hombro, ayudando a mejorar la postura y el equilibrio muscular del tren superior.",
+      "image": "assets/images/face_pull_mancuernas.png"
+    }
+  ],
+  "Bíceps": [
+    {
+      "name": "Curl de bíceps con mancuernas",
+      "description": "Ejercicio clásico para el desarrollo del bíceps braquial que permite un trabajo unilateral, mejorando el equilibrio muscular y la conexión mente-músculo.",
+      "image": "assets/images/curl_biceps_mancuernas.png"
+    },
+    {
+      "name": "Curl con barra",
+      "description": "Ejercicio básico para ganar masa en el bíceps braquial, permitiendo mover cargas elevadas y trabajar de forma global ambas cabezas del músculo.",
+      "image": "assets/images/curl_barra.png"
+    },
+    {
+      "name": "Curl martillo con mancuernas",
+      "description": "Ejercicio que enfatiza el braquial y el braquiorradial, aportando mayor grosor al brazo y mejorando la fuerza funcional del agarre.",
+      "image": "assets/images/curl_martillo_mancuernas.png"
+    },
+    {
+      "name": "Curl con barra Z",
+      "description": "Variante del curl con barra que reduce la tensión en muñecas y codos, permitiendo un trabajo cómodo y efectivo del bíceps braquial.",
+      "image": "assets/images/curl_barra_z.png"
+    },
+    {
+      "name": "Curl predicador con barra Z",
+      "description": "Ejercicio de aislamiento que limita el impulso y focaliza el trabajo en el bíceps, especialmente en su porción inferior.",
+      "image": "assets/images/curl_predicador_barra_z.png"
+    },
+    {
+      "name": "Curl concentrado con mancuernas",
+      "description": "Ejercicio de aislamiento que maximiza la contracción del bíceps, ideal para mejorar la conexión mente-músculo y el control del movimiento.",
+      "image": "assets/images/curl_concentrado_mancuernas.png"
+    },
+    {
+      "name": "Curl en polea de pie",
+      "description": "Ejercicio que mantiene tensión constante durante todo el recorrido, favoreciendo un estímulo continuo sobre el bíceps braquial.",
+      "image": "assets/images/curl_polea_pie.png"
+    },
+    {
+      "name": "Curl con mancuernas en banco inclinado",
+      "description": "Ejercicio que estira la cabeza larga del bíceps al inicio del movimiento, promoviendo un mayor desarrollo y rango de movimiento.",
+      "image": "assets/images/curl_mancuernas_banco_inclinado.png"
+    },
+    {
+      "name": "Curl Bayesian",
+      "description": "Variante en polea que coloca el brazo por detrás del cuerpo, generando alta tensión en la cabeza larga del bíceps durante todo el ejercicio.",
+      "image": "assets/images/curl_bayesian.png"
+    },
+    {
+      "name": "Curl estricto",
+      "description": "Ejercicio de técnica controlada que elimina el balanceo corporal, asegurando que el bíceps realice todo el trabajo.",
+      "image": "assets/images/curl_estricto.png"
+    },
+    {
+      "name": "Curl predicador en máquina",
+      "description": "Ejercicio guiado que proporciona estabilidad y aislamiento, ideal para trabajar el bíceps de forma segura y controlada.",
+      "image": "assets/images/curl_maquina.png"
+    },
+    {
+      "name": "Curl martillo inclinado",
+      "description": "Variante del curl martillo que aumenta el estiramiento del braquial, favoreciendo el grosor y la profundidad del brazo.",
+      "image": "assets/images/curl_biceps_mancuernas.png"
+    },
+    {
+      "name": "Curl predicador con mancuernas",
+      "description": "Ejercicio unilateral que permite corregir desequilibrios musculares y aislar eficazmente el bíceps en banco predicador.",
+      "image": "assets/images/curl_predicador_mancuernas.png"
+    },
+    {
+      "name": "Curl Zottman",
+      "description": "Ejercicio combinado que trabaja el bíceps en la fase concéntrica y los extensores del antebrazo en la excéntrica, mejorando fuerza y equilibrio muscular.",
+      "image": "assets/images/curl_zottman.png"
+    },
+    {
+      "name": "Curl araña",
+      "description": "Ejercicio realizado con el pecho apoyado que mantiene tensión constante en el bíceps, enfatizando la contracción máxima.",
+      "image": "assets/images/curl_arana.png"
+    },
+    {
+      "name": "Curl alterno",
+      "description": "Variante con mancuernas que permite concentrarse en un brazo a la vez, mejorando la simetría y el control del movimiento.",
+      "image": "assets/images/curl_alterno.png"
+    },
+    {
+      "name": "Curl con mancuernas sentado",
+      "description": "Ejercicio que reduce el impulso corporal, permitiendo un trabajo más estricto y controlado del bíceps.",
+      "image": "assets/images/curl_mancuernas_sentado.png"
+    },
+    {
+      "name": "Jalón a una mano",
+      "description": "Ejercicio unilateral en polea que mantiene tensión constante y permite un trabajo preciso del bíceps durante todo el recorrido.",
+      "image": "assets/images/jalon_una_mano.png"
+    },
+    {
+      "name": "Curl martillo en polea",
+      "description": "Variante en polea del curl martillo que proporciona tensión continua, enfatizando el braquial y el antebrazo.",
+      "image": "assets/images/curl_polea_martillo.png"
+    },
+    {
+      "name": "Curl en polea alta",
+      "description": "Ejercicio que coloca los brazos elevados, enfatizando la contracción del bíceps y aportando un estímulo diferente al músculo.",
+      "image": "assets/images/curl_polea_alta.png"
+    },
+    {
+      "name": "Curl inclinado en polea",
+      "description": "Variante en polea que aumenta el estiramiento inicial del bíceps, favoreciendo el desarrollo de la cabeza larga.",
+      "image": "assets/images/curl_inclinado_polea.png"
+    },
+    {
+      "name": "Curl de bíceps con cable",
+      "description": "Ejercicio versátil que mantiene tensión constante durante todo el movimiento, ideal para controlar la técnica y el estímulo muscular.",
+      "image": "assets/images/curl_biceps_cable.png"
+    }
+  ],
+  "Tríceps": [
+    {
+      "name": "Fondos",
+      "description": "Ejercicio de calistenia muy efectivo para el desarrollo del tríceps, con participación del pecho y los hombros, que puede adaptarse según la inclinación del torso.",
+      "image": "assets/images/fondos.png"
+    },
+    {
+      "name": "Jalones de tríceps en polea",
+      "description": "Ejercicio aislado que trabaja intensamente el tríceps braquial, ideal para mejorar la definición y mantener tensión constante durante todo el recorrido.",
+      "image": "assets/images/jalones_triceps_polea.png"
+    },
+    {
+      "name": "Jalones de tríceps con cuerda",
+      "description": "Variación del jalón en polea que permite una mayor separación de las manos al final del movimiento, aumentando la activación del tríceps y mejorando la contracción.",
+      "image": "assets/images/jalones_triceps_cuerda.png"
+    },
+    {
+      "name": "Press francés",
+      "description": "Ejercicio clásico para el desarrollo del tríceps que enfatiza la cabeza larga del músculo, realizado generalmente con barra o barra Z.",
+      "image": "assets/images/press_frances.png"
+    },
+    {
+      "name": "Extensión de tríceps con mancuernas",
+      "description": "Ejercicio versátil que permite trabajar el tríceps de forma unilateral o bilateral, mejorando el control, la estabilidad y el equilibrio muscular.",
+      "image": "assets/images/extension_triceps_mancuerna.png"
+    },
+    {
+      "name": "Extensión de tríceps con barra por encima de la cabeza",
+      "description": "Movimiento que enfatiza la cabeza larga del tríceps al trabajar con el brazo elevado, ideal para ganar masa y fuerza en el músculo.",
+      "image": "assets/images/extension_barra_encima_cabeza.png"
+    },
+    {
+      "name": "Extensión de tríceps en banca con mancuernas",
+      "description": "Ejercicio realizado en banco que permite un mayor rango de movimiento, favoreciendo el estiramiento profundo y la activación completa del tríceps.",
+      "image": "assets/images/extension_triceps_banca_mancuernas.png"
+    },
+    {
+      "name": "Patada de tríceps con mancuerna",
+      "description": "Ejercicio de aislamiento enfocado en la contracción máxima del tríceps, ideal para mejorar la definición y el control muscular.",
+      "image": "assets/images/patada_triceps_mancuerna.png"
+    },
+    {
+      "name": "Fondos en máquina",
+      "description": "Variante asistida de los fondos tradicionales que permite controlar la carga y enfocarse en el tríceps, siendo ideal para principiantes o trabajo controlado.",
+      "image": "assets/images/fondos_maquina.png"
+    },
+    {
+      "name": "Extensiones de tríceps en máquina",
+      "description": "Ejercicio guiado que proporciona estabilidad y control, permitiendo un aislamiento eficaz del tríceps con menor riesgo de lesión.",
+      "image": "assets/images/extension_triceps_maquina.png"
+    },
+    {
+      "name": "Jalones en polea con agarre inverso",
+      "description": "Variante del jalón de tríceps que utiliza agarre supino, aumentando la activación del tríceps medial y mejorando la conexión mente-músculo.",
+      "image": "assets/images/jalones_polea_agarre_inverso.png"
+    },
+    {
+      "name": "Press Tate",
+      "description": "Ejercicio avanzado de tríceps que combina extensión y press, ideal para desarrollar fuerza y masa muscular, especialmente en la cabeza medial.",
+      "image": "assets/images/press_tate.png"
+    },
+    {
+      "name": "Press JM",
+      "description": "Movimiento híbrido entre press de banca y press francés que permite levantar cargas más pesadas, enfocándose en la fuerza del tríceps.",
+      "image": "assets/images/press_jm.png"
+    },
+    {
+      "name": "Extensión de tríceps con mancuernas por encima de la cabeza",
+      "description": "Ejercicio que enfatiza el trabajo de la cabeza larga del tríceps, ofreciendo un gran estiramiento y una contracción intensa.",
+      "image": "assets/images/extension_mancuernas_cabeza.png"
+    },
+    {
+      "name": "Fondos entre bancos",
+      "description": "Ejercicio de peso corporal que permite trabajar el tríceps de forma accesible, aumentando o reduciendo la dificultad según la posición de las piernas.",
+      "image": "assets/images/fondos_bancos.png"
+    },
+    {
+      "name": "Flexión de brazos sobre anillos",
+      "description": "Ejercicio avanzado de calistenia que exige una alta activación del tríceps y los estabilizadores del hombro debido a la inestabilidad de los anillos.",
+      "image": "assets/images/flexion_brazos_anillos.png"
+    }
+  ],
+  "Abdominales": [
+    {
+      "name": "Sit ups",
+      "description": "Ejercicio clásico para trabajar el recto abdominal mediante la flexión completa del tronco, requiriendo control para evitar un exceso de impulso.",
+      "image": "assets/images/abdominales_sentado.png"
+    },
+    {
+      "name": "Abdominales en polea",
+      "description": "Ejercicio con carga progresiva que permite trabajar el recto abdominal de forma controlada, ideal para ganar fuerza y masa muscular en el core.",
+      "image": "assets/images/abdominales_polea.png"
+    },
+    {
+      "name": "Encogimientos en máquina",
+      "description": "Ejercicio guiado que aísla el abdomen, facilitando una ejecución controlada y segura, especialmente útil para principiantes.",
+      "image": "assets/images/encogimiento_maquina.png"
+    },
+    {
+      "name": "Abdominales clásicos",
+      "description": "Ejercicio básico de suelo para fortalecer el recto abdominal, centrado en el control del movimiento y la correcta activación del core.",
+      "image": "assets/images/abdominales.png"
+    },
+    {
+      "name": "Leñador en polea",
+      "description": "Ejercicio funcional que trabaja los oblicuos y el core en rotación, mejorando la estabilidad y la transferencia de fuerza.",
+      "image": "assets/images/lenador.png"
+    },
+    {
+      "name": "Flexión lateral con mancuerna",
+      "description": "Ejercicio unilateral que fortalece los oblicuos y la musculatura estabilizadora del tronco mediante la flexión lateral controlada.",
+      "image": "assets/images/flexion_lateral_mancuerna.png"
+    },
+    {
+      "name": "Elevaciones de piernas colgado",
+      "description": "Ejercicio avanzado para abdominales inferiores que requiere fuerza de agarre y control del balanceo para una ejecución correcta.",
+      "image": "assets/images/elevaciones_piernas_colgado.png"
+    },
+    {
+      "name": "Twist ruso",
+      "description": "Ejercicio dinámico para oblicuos que combina rotación del tronco con estabilidad del core, pudiendo realizarse con o sin carga.",
+      "image": "assets/images/twist_ruso.png"
+    },
+    {
+      "name": "Elevaciones de piernas",
+      "description": "Ejercicio para fortalecer el abdomen inferior mediante la elevación controlada de las piernas, manteniendo la zona lumbar estable.",
+      "image": "assets/images/elevaciones_piernas.png"
+    },
+    {
+      "name": "Pies a la barra",
+      "description": "Ejercicio avanzado de core que combina fuerza abdominal, control corporal y coordinación, llevando los pies hasta la barra de dominadas.",
+      "image": "assets/images/pies_barra.png"
+    },
+    {
+      "name": "Despliegue de rueda abdominal",
+      "description": "Ejercicio muy exigente para el core que trabaja abdominales, hombros y estabilizadores, requiriendo una correcta alineación corporal.",
+      "image": "assets/images/rueda_abdominal.png"
+    },
+    {
+      "name": "Elevaciones de piernas con rodillas flexionadas colgado",
+      "description": "Variante más accesible de las elevaciones colgado, ideal para progresar hacia ejercicios más avanzados de abdominales inferiores.",
+      "image": "assets/images/elevaciones_piernas_colgado_rodillas.png"
+    },
+    {
+      "name": "Abdominales en banco declinado",
+      "description": "Ejercicio que aumenta la intensidad del trabajo abdominal gracias a la inclinación, permitiendo mayor recorrido y dificultad.",
+      "image": "assets/images/abdominales_banco_declinado.png"
+    },
+    {
+      "name": "Levantamientos en banco declinado",
+      "description": "Ejercicio para el recto abdominal realizado en banco declinado, que aumenta la intensidad del movimiento al trabajar contra la gravedad, permitiendo un mayor recorrido y activación del core.",
+      "image": "assets/images/levantamientos_banco_declinado.png"
+    },
+    {
+      "name": "Saltos de tijera",
+      "description": "Ejercicio dinámico y cardiovascular que trabaja abdominales, piernas y coordinación, ideal para elevar la frecuencia cardíaca y mejorar la resistencia.",
+      "image": "assets/images/saltos_tijera.png"
+    },
+    {
+      "name": "Abdominales bicicleta",
+      "description": "Ejercicio dinámico que activa el recto abdominal y los oblicuos mediante un movimiento alterno de piernas y rotación del tronco, muy eficaz para el trabajo del core.",
+      "image": "assets/images/abdominales_bicicleta.png"
+    },
+    {
+      "name": "Encogimientos invertidos",
+      "description": "Ejercicio enfocado en los abdominales inferiores, donde se eleva la pelvis del suelo controladamente, reduciendo la implicación de los flexores de la cadera.",
+      "image": "assets/images/encogimientos_invertidos.png"
+    },
+    {
+      "name": "Patadas de aleteo",
+      "description": "Ejercicio isométrico-dinámico para abdominales inferiores que consiste en alternar elevaciones de piernas, manteniendo el core activado y la zona lumbar estable.",
+      "image": "assets/images/patadas_aleteo.png"
+    },
+    {
+      "name": "Escaladores",
+      "description": "Ejercicio funcional y cardiovascular que trabaja el core, hombros y piernas, combinando fuerza, estabilidad y resistencia mediante un movimiento continuo.",
+      "image": "assets/images/escaladores.png"
+    },
+    {
+      "name": "Crunch lateral",
+      "description": "Ejercicio específico para los oblicuos que se centra en la flexión lateral del tronco, ayudando a fortalecer la musculatura lateral del abdomen.",
+      "image": "assets/images/crunch_lateral.png"
+    },
+    {
+      "name": "Encogimientos en polea de pie",
+      "description": "Ejercicio de core con carga progresiva que trabaja el recto abdominal mediante la flexión del tronco, permitiendo un control preciso del movimiento.",
+      "image": "assets/images/encogimientos_polea.png"
+    },
+    {
+      "name": "Crunches oblicuos en silla romana",
+      "description": "Ejercicio avanzado para oblicuos realizado en silla romana, que requiere control corporal y permite un trabajo profundo del core lateral.",
+      "image": "assets/images/crunches_silla_romana.png"
+    },
+    {
+      "name": "Superman",
+      "description": "Ejercicio isométrico que fortalece la zona lumbar, glúteos y core posterior, ayudando a mejorar la estabilidad y la salud de la espalda baja.",
+      "image": "assets/images/superman.png"
+    },
+    {
+      "name": "Tijeras de piernas",
+      "description": "Ejercicio para abdominales inferiores que consiste en cruzar las piernas de forma alterna, manteniendo el tronco estable y el core activado.",
+      "image": "assets/images/tijeras_piernas.png"
+    },
+    {
+      "name": "Encogimientos en polea sentado",
+      "description": "Ejercicio con carga que permite trabajar el recto abdominal de forma controlada, manteniendo la cadera estable y focalizando el esfuerzo en el core.",
+      "image": "assets/images/encogimientos_polea_sentado.png"
+    }
+  ],
+  "Antebrazos": [
+    {
+      "name": "Curl de muñecas con barra Z palmas arriba",
+      "description": "Ejercicio específico para fortalecer los flexores del antebrazo, mejorando la fuerza de agarre y la estabilidad de la muñeca.",
+      "image": "assets/images/curl_munecas_barra_z.png"
+    },
+    {
+      "name": "Curl de muñecas con barra Z palmas abajo",
+      "description": "Ejercicio enfocado en los extensores del antebrazo, que ayuda a equilibrar la musculatura de la muñeca y prevenir sobrecargas derivadas del trabajo de agarre.",
+      "image": "assets/images/curl_munecas_barra_z_abajo.png"
+    },
+    {
+      "name": "Curl con barra agarre prono",
+      "description": "Ejercicio que trabaja principalmente el braquiorradial y los músculos del antebrazo, aportando fuerza funcional al agarre y mejorando la estabilidad del codo.",
+      "image": "assets/images/curl_barra_agarre_prono.png"
+    },
+    {
+      "name": "Curl de muñeca con mancuernas palmas arriba",
+      "description": "Ejercicio unilateral para los flexores del antebrazo que permite corregir desequilibrios y mejorar el control individual de cada muñeca.",
+      "image": "assets/images/curl_munecas_mancuernas.png"
+    },
+    {
+      "name": "Curl de muñeca con mancuernas palmas abajo",
+      "description": "Ejercicio específico para los extensores del antebrazo, ideal para reforzar la estabilidad de la muñeca y compensar el trabajo de flexión repetitiva.",
+      "image": "assets/images/curl_munecas_mancuernas_abajo.png"
+    },
+    {
+      "name": "Curls invertidos con mancuernas",
+      "description": "Ejercicio enfocado en el braquiorradial y los músculos extensores del antebrazo, mejorando la fuerza del agarre y la resistencia del tren inferior del brazo.",
+      "image": "assets/images/curls_invertidos_mancuernas.png"
+    }
+  ]
+}

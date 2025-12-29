@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+
+class GetStartedButtonController {
+  static void navigateToHomeScreen(BuildContext context) {
+    context.go('/home');
+  }
+} 
