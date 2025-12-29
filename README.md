@@ -16,9 +16,8 @@ Flutter mobile app to track your gym routines.
 </p>
 
 ## 🛠 Tech Stack
-- React Native / Flutter
-- Firebase / Backend propio
-- Riverpod / Redux
+- Flutter / Dart
+- Riverpod (Riverpod 3 and Riverpod code generation)
 
 ## 📦 Installation
 Download the APK (only for Android) from [here](https://github.com/ivanaf03/gym-app/app-release.apk).
